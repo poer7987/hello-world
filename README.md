@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hai, just try to edit </br>
+I'd like to learn Computer
